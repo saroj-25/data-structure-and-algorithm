@@ -3,11 +3,11 @@
 
 ##  Learning Goals
 
-- Strengthen your **algorithmic logic and design**  
-- Understand **complexity trade-offs** between solutions  
--  Master **Python implementations** of classical algorithms  
--  Build a **foundation for AI/ML system optimization**  
-   Prepare confidently for **coding interviews & research projects**
+- [ ] Strengthen  **algorithmic logic and design**  
+- [ ] Understand **complexity trade-offs** between solutions  
+- [ ] Learn **Python implementations** of classical algorithms  
+- [ ] Build a **foundation for AI/ML system optimization**  
+- [ ] Prepare confidently for **coding interviews & research projects**
 
 ---
 
