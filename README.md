@@ -22,7 +22,7 @@
 
 ---
 
-## 🌱 Future Enhancements
+##  Future Enhancements
 - [ ] Add **visualizations** for Trees and Graphs  
 - [ ] Include **interview question sets** for each topic  
 - [ ] Add **unit tests** for all implementations  
