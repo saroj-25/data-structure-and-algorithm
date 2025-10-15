@@ -1,0 +1,1 @@
+#Check if the array reads the same forwards and backwards.
