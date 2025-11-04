@@ -1,0 +1,1 @@
+#Compute sum and average of array elements.
