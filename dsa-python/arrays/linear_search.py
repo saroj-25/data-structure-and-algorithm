@@ -1,1 +1,0 @@
-#Find an element by scanning all elements.
