@@ -6,10 +6,14 @@ def subarray_with_sum(arr,target_sum):
     
     
     for end in range(len(arr)): 
+        #here end is the right index to the window. The loop expands the window to the right one elelement at a time 
+        
+        # add new element the one at end to the current sum now the window is arr[start] through arr[end]
         current_sum+= arr[end]
         
         #shrink the window when sum is greater than the target 
         
+        #here is the target sum is less than the current sum then loop continues removing start until it reaches end
         while current_sum > target_sum and start <end: 
             current_sum -= arr[start]
             start +=  1
@@ -19,7 +23,7 @@ def subarray_with_sum(arr,target_sum):
             print(f"Subarray found from index {start} to {end}: {arr[start:end+1]}")
             return 
         
-        print("No subarray found with given sum ")
+    print("No subarray found with given sum ")
         
         
 #Example 
