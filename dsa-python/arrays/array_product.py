@@ -12,5 +12,5 @@ for i in range(len(arr)-1):
         max = product
   
         
-print(f"The maximum among the subarray is {product}" )
+print(f"The maximum among the product of subarray is {product}" )
     
